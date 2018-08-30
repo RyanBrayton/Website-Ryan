@@ -1,0 +1,40 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    color:red;
+    background-color: lightgray;
+    border:1px solid red;
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: darkred;
+  }
+  
+  p, h1, h2 {
+    font-family: cursive; 
+  }
+
+  img {
+      box-shadow: 10px 10px 15px lightslategrey;
+  }
+  
+  p, img {
+    margin-left:50px;
+  }
+
+  #About {
+    font-family: 'caveat';
+    font-size:40px;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+  }
+
+  .cust {
+    color:purple;
+    font-family: 'caveat';
+    font-size:40px;
+  }
